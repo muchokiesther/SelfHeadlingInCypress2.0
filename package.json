@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "cypress-plugin-retries": "^1.5.2"
+  }
+}
